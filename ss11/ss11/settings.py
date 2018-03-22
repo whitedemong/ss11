@@ -26,7 +26,7 @@ SECRET_KEY = 't4eyc%f9hq0s*+5ts%qy*0$k86$3&4+zldph33-dx=w67ti77@'
 DEBUG = True
 
 #wd#ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1', '<твоё_имя_пользователя>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'whitedemon.pythonanywhere.com']
 
 
 # Application definition
